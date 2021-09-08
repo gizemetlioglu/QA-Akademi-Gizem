@@ -1,0 +1,2 @@
+# QA-Akademi-Gizem
+homework
